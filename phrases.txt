@@ -1,0 +1,1 @@
+This file should contain a single quote per line, the get_phrase() should retrieve a random quote (line) from this text. Not implemented yet.
