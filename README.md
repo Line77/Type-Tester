@@ -7,12 +7,12 @@
   Also, there are two label widgets to show the current typing speed.
   
   Every time a key is pressed(released actually) a routine is called, wich gets a key release event and stores
-  the current string on the entry box on a variable. Then a comparation is performed, between the content of both
+  the current string on the entry box on a variable. Then a comparison is performed, between the content of both
   entry and text widgets.
   
   By default the next character to type is modified by a next tkinter tag (light blue foreground)
-  Acording to the result of previous comparation, text will be modified with different tkinter tags, text could be correct(gray),
-  wrong(red). Also background of thext is changed in both cases.
+  Acording to the result of previous comparison, text will be modified with different tkinter tags, text could be correct(gray),
+  wrong(red). Also background of text is changed in both cases.
   
 
   
